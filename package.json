@@ -12,11 +12,17 @@
       "hash": "QmSLbJgmwYvjQuMpfW6kUt5KsJeEkjLwXTkRM5DkqR14if",
       "name": "go-multiplex",
       "version": "0.0.0"
+    },
+    {
+      "author": "whyrusleeping",
+      "hash": "Qmb1US8uyZeEpMyc56wVZy2cDFdQjNFojAUYVCoo9ieTqp",
+      "name": "go-stream-muxer",
+      "version": "1.0.0"
     }
   ],
   "gxVersion": "0.7.0",
   "language": "go",
   "license": "",
   "name": "go-smux-multiplex",
-  "version": "0.0.0"
+  "version": "1.0.0"
 }
