@@ -9,15 +9,15 @@
   "gxDependencies": [
     {
       "author": "whyrusleeping",
-      "hash": "QmSLbJgmwYvjQuMpfW6kUt5KsJeEkjLwXTkRM5DkqR14if",
+      "hash": "QmcmTE81YbtQLPzNBozSDABo2VDsVeHUYurL1Jn623Degx",
       "name": "go-multiplex",
-      "version": "0.0.0"
+      "version": "0.1.0"
     },
     {
       "author": "whyrusleeping",
-      "hash": "Qmb1US8uyZeEpMyc56wVZy2cDFdQjNFojAUYVCoo9ieTqp",
+      "hash": "QmeZBgYBHvxMukGK5ojg28BCNLB9SeXqT7XXg6o7r2GbJy",
       "name": "go-stream-muxer",
-      "version": "1.0.0"
+      "version": "1.1.0"
     }
   ],
   "gxVersion": "0.7.0",
@@ -26,3 +26,4 @@
   "name": "go-smux-multiplex",
   "version": "1.0.0"
 }
+

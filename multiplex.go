@@ -24,7 +24,7 @@ func (c *conn) IsClosed() bool {
 
 // OpenStream creates a new stream.
 func (c *conn) OpenStream() (smux.Stream, error) {
-	return c.Multiplex.NewStream(), nil
+	return c.Multiplex.NewStream()
 }
 
 // AcceptStream accepts a stream opened by the other side.
