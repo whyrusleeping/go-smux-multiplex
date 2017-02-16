@@ -9,9 +9,9 @@
   "gxDependencies": [
     {
       "author": "whyrusleeping",
-      "hash": "QmbcRGNqpsPynAbeDbvAgryffx7cje4Lp2NiCFAivAdmku",
+      "hash": "QmfYR3dFXT5udj6sn6F7dCQkQtjH45v8qyr5vnxTfAzxL3",
       "name": "go-multiplex",
-      "version": "0.2.6"
+      "version": "0.2.7"
     },
     {
       "author": "whyrusleeping",
