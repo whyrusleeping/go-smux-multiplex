@@ -4,7 +4,7 @@ import (
 	"errors"
 	"net"
 
-	smux "github.com/jbenet/go-stream-muxer"
+	smux "github.com/libp2p/go-stream-muxer"
 	mp "github.com/whyrusleeping/go-multiplex" // Conn is a connection to a remote peer.
 )
 
