@@ -15,9 +15,9 @@
     },
     {
       "author": "whyrusleeping",
-      "hash": "QmesC1VLf5oNWvrjyEbSgPu3Wyn6f1qJFBXcpz1nDdmYHN",
+      "hash": "QmRE4qK4cZHndEEnokUQmf4gqcYxjjvPcLZ329QF79dTtk",
       "name": "go-mplex",
-      "version": "0.2.27"
+      "version": "0.2.29"
     }
   ],
   "gxVersion": "0.7.0",
