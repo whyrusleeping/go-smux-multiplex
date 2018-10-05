@@ -25,6 +25,6 @@
   "license": "MIT",
   "name": "go-smux-multiplex",
   "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
-  "version": "3.0.13"
+  "version": "3.0.14"
 }
 
